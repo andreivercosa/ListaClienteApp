@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListaClienteApp"
+             x:Class="ListaClienteApp.MainPage">
+    <StackLayout>
+        <Label HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   Text="CADASTRO"
+                   FontSize="30"
+                   x:Name="label_valor"
+                   FontAttributes="Bold"
+                   Margin="20"
+                   />
+        
+        <Entry Placeholder="Nome" 
+                Margin="10" 
+                x:Name="nome"
+                
+                />
+        <Entry Placeholder="Cep" 
+                Margin="10" 
+                x:Name="txtCEP"
+               Completed="Handle_Completed"
+                />
+        <Entry Placeholder="Endereço"
+                Margin="10" 
+                x:Name="endereco" 
+                />
+        
+        <Entry Placeholder="Cidade"
+                Margin="10" 
+                x:Name="cidade"
+                />
+        
+        <Entry Placeholder="UF"
+                Margin="10" 
+                x:Name="uf"
+               
+                />
+           
+            <StackLayout HorizontalOptions="Center" 
+                         VerticalOptions="EndAndExpand"
+                         Orientation="Horizontal" Margin="0, 40, 0, 40"
+                         >
+            
+               <Button Text="ADD" 
+                       
+                       WidthRequest="80" 
+                       HeightRequest="60"
+                       
+                       VerticalOptions="End" 
+                       BackgroundColor="Gray"
+                       TextColor="White"
+                       HorizontalOptions="Start"
+                       Clicked="Adicionar"
+                       />
+                
+             <Button Text="Listar" WidthRequest="80" HeightRequest="60"
+                      VerticalOptions="End" 
+                      HorizontalOptions="Start"
+                      BackgroundColor="Gray"
+                     TextColor="White"
+                       Clicked="Listar"
+                   />
+                
+            </StackLayout>
+        
+        
+    </StackLayout>     
+</ContentPage>  

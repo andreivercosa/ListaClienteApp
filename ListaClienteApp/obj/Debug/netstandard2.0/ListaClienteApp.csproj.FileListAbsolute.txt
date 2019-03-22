@@ -1,0 +1,13 @@
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/bin/Debug/netstandard2.0/ListaClienteApp.deps.json
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/bin/Debug/netstandard2.0/ListaClienteApp.dll
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/bin/Debug/netstandard2.0/ListaClienteApp.pdb
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/CadastroList.xaml.g.cs
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.dll
+/Users/aluno/Projects/ListaClienteApp/ListaClienteApp/obj/Debug/netstandard2.0/ListaClienteApp.pdb

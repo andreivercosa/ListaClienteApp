@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BA341728-D19D-46AD-B6AD-D5D61A0EBD20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaClienteApp/App.xaml.cs">
+    <Files>
+      <File FileName="ListaClienteApp/App.xaml.cs" Line="15" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaClienteApp" expanded="True">
+            <Node name="ListaClienteApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="CadastroList.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaClienteApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ListaClienteApp.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
